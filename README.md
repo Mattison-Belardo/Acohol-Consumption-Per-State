@@ -1,2 +1,2 @@
 # Alcohol-Consumption-Per-State
-https://observablehq.com/d/973f40943b0cd02c
+https://observablehq.com/d/0fae733b16e53005
